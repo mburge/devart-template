@@ -7,7 +7,7 @@ Face Cloud
 
 ## Description
 
-According to neurologist Semir Zeki, artists have preferred modes of cognition that direct production. What can we learn from an obsession with observing faces on a train commute? This daily derive of morphologies  - bracketing color or expressions - sparked our project. 
+According to neurologist Semir Zeki, artists have preferred modes of cognition that direct production. What can we learn from an obsession with observing faces on a train commute? This daily dérive of morphologies  - bracketing color or expressions - sparked our project. 
 
 An interactive installation, Face Cloud presents an infinite field of haunting, unique, artificial faces that are  generated from a hidden research database of scanned real faces. Users may scan their own faces to be added to that database - the vault. The diversity, subtlety and complexity of the Face Cloud that draws from it visibly increases with each entry. 
 
