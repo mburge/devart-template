@@ -7,7 +7,14 @@ Face Cloud
 
 ## Description
 
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+According to neurologist Semir Zeki, artists have preferred modes of cognition that direct production. What can we learn from an obsession with observing faces on a train commute? This daily derive of morphologies  - bracketing color or expressions - sparked our project. 
+
+An interactive installation, Face Cloud presents an infinite field of haunting, unique, artificial faces that are  generated from a hidden research database of scanned real faces. Users may scan their own faces to be added to that database - the vault. The diversity, subtlety and complexity of the Face Cloud that draws from it visibly increases with each entry. 
+
+Faces are produced by subverting standard face recognition algorithms across 60 dimensions. ...
+
+This project reverses face detection and recognition narratives. Instead of singling out, it joins. By suggesting ways of parsing and projecting the visible world, it is epistemic.
+
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
