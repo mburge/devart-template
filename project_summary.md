@@ -2,8 +2,8 @@
 Face Cloud
 
 ## Authors
-- Robert Woodley, rwoodley on github.
-- Adelheid Mers
+Robert Woodley and Adelheid Mers   
+[http://github.com/rwoodley]  
 
 ## Description
 
