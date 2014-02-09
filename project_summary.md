@@ -1,5 +1,4 @@
-# Project Title
-Face Cloud
+# Face Cloud
 
 ## Authors
 Robert Woodley and Adelheid Mers   
