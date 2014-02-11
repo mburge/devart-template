@@ -1,10 +1,12 @@
 {
     "technologies": {
         "apis": [
+            "Google+"
         ],
         "platforms": [
             "Google Cloud Storage",
-            "Android OS"
+            "Android",
+            "iOS"
         ],
         "toolkits": [
             "three.js",
