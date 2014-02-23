@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html style='width:100%; height:100%'>
+	<head >
+		<title>Synthetic Face</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				font-family: Monospace;
+				background-color: #000000;
+				margin: 0px;
+				overflow: hidden;
+			}
+		</style> 
+    <script type="text/javascript" src="scripts/DAT.GUI.js"></script>
+    <script>_browserNormal = true;</script>
+    <!--[if IE]>
+    <script type="text/javascript">
+        _browserNormal = false;
+     </script> 
+    <![endif]-->
+	</head>
+	<body style='width:100%; height:100%'>
+    <img id="FaceBookThumb" width=32px; height=32px; style="Display:none;"  />
+
+    <table width=100% height=100%>
+        <tr>
+            <td id='leftPanel'  >
+            </td>
+            <td id='centerPanel' style='text-align:center; vertical-align: top '>
+              <div id="modalBackground"></div>
+              <div id='ShareDiv' style='z-index: 100;  display: none;'>
+                  <table >
+                  <tr>
+                  <td><a id="shareFB" href="blah" target="_blank" ><img id="FBPng" height=32px; src="Resources/FacebookFlatLargeBlack.png" /></a></td>
+                  <td><a id="shareTW" href="blah" target="_blank" ><img id="TwitterPng" height=32px; src="Resources/TwitterFlatLargeBlack.png" ></a></td>
+                  <td><a id="sharePI" href="blah" target="_blank" data-pin-do="buttonBookmark">
+                      <img id="PIPNG" width=32px; height=32px src="Resources/PinterestBlack.png" ></a></td>
+                  <td><a id="A1" href="SynthInfo.htm" target="_blank" ><img id="Img1" height=32px; src="Resources/72round.png" ></a></td>
+                  </tr>
+                  </table>
+              </div>
+            <img id='faceImg' onclick="share()" />
+            </td>
+            <td id='rightPanel' >
+            </td>
+        </tr>
+    </table>
+    <script type="text/javascript" src="scripts/SynthFace.js"></script>
+</body>
+</html>
