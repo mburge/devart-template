@@ -1,6 +1,7 @@
-Over the course of this competition, we have explored aspects of the face cloud. Synthetic face has risen to the top. 
+Over the course of this competition, we have explored aspects of the face cloud. Synthetic face, the interface that allows users to manipulate their own and any number of random faces generated in face cloud, has risen to the top.   
 
 ![Sliders](../project_images/2014-03-26/Image2.png?raw=true)
+Live version: http://facefield.org/SynthFace.aspx
 
 Installation:
 
@@ -18,5 +19,5 @@ We think that this installation has a rich didactic potential, much of which we 
 
 The faces themselves are eerily haunting. They hover on a border between real and unreal that is equally disconcerting and fascinating.   
 
-With his, Face Cloud and Synthetic face could be equally at home in a science or math museum as in an art and media context.   
+With this, Face Cloud and Synthetic face could be equally at home in a science or math museum as in an art and media context.   
 
