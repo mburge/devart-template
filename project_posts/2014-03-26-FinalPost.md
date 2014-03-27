@@ -4,7 +4,7 @@ Over the course of this competition, we have explored aspects of the face cloud.
 
 Installation:
 
-![Installatino](../project_images/2014-03-26/installation.png?raw=true)
+![Installation](../project_images/2014-03-26/installation2.png?raw=true)
 
 The installation consists of four elements:
 
