@@ -8,16 +8,11 @@ Installation:
 
 The installation consists of four elements:
 
-1. Three or possibly more terminals at which users can snap and upload
-their own faces into the face cloud and modify them with the 60
-sliders.   
+1. Three or possibly more terminals at which users can snap and upload their own faces into the face cloud and modify them with the 60 sliders.   
 
-2. A large projection that cycles through the faces on the terminals
-as they are being modified. In the absence of interaction, it randomly
-generates new faces from face cloud.   
+2. A large projection that cycles through the faces on the terminals as they are being modified. In the absence of interaction, it randomly generates new faces from face cloud.   
 
-3. A wireless laser printer. From the terminal, users can send any
-number of faces they select to the printer, and take home the output.   
+3. A wireless laser printer. From the terminal, users can send any number of faces they select to the printer, and take home the output.   
 
 
 4. Face cloud, getting diversified.   
